@@ -1,0 +1,10 @@
+Model ID,Model Name,Version,Owner,Lifecycle Stage,Approval Status,Risk Tier,Days Since Review,Days Until Review
+M001,Product Recommendation Chatbot,2.3.1,Sarah Chen,Production,Approved,Critical,450,-360
+M002,Demand Forecasting,1.8.0,Marcus Johnson,Production,Approved,High,467,-375
+M003,Image Search Engine,3.1.2,Lisa Wang,Production,Approved,High,516,-424
+M004,Customer Sentiment Analyzer,1.5.0,James Rodriguez,Staging,Pending,Medium,414,-324
+M005,Dynamic Pricing Optimizer,2.0.1,Priya Patel,Production,Approved,Critical,526,-435
+M006,Fraud Detection System,4.2.0,David Lee,Production,Approved,Critical,460,-370
+M007,Content Generator,1.2.0,Elena Kowalski,Development,In Review,High,419,-329
+M008,Customer Churn Predictor,1.1.0,Robert Singh,Staging,Pending,Medium,424,-334
+M009,Legacy Image Classifier v1,1.0.5,Lisa Wang,Retired,Archived,Medium,393,-393
