@@ -15,7 +15,12 @@ lesson-5-ai-model-governance/
 ├── exercises/
 │   ├── starter/
 │   │   ├── model_governance_starter.xlsx        # Student starting file (with hints)
-│   │   └── model_card_generator_starter.ipynb   # Notebook with TODO placeholders
+│   │   ├── model_card_generator_starter.ipynb   # Notebook with TODO placeholders
+│   │   └── data/                                # Source data — model details to work from (not to invent)
+│   │       ├── M001_model_facts.md              # M001 details, performance, bias results
+│   │       ├── M002_model_facts.md
+│   │       ├── M006_model_facts.md
+│   │       └── model_details_reference.md       # All 9 models: name, type, version, owner, lifecycle, dates
 │   └── solution/
 │       ├── model_governance_solution.xlsx        # Completed solution
 │       ├── model_card_generator_solution.ipynb   # Completed notebook
@@ -36,6 +41,8 @@ The instructor walks through model governance concepts live, filling in model in
 ## Exercise
 
 **Scenario: RetailGenius** — An e-commerce company managing multiple AI models across departments.
+
+> **Where the data comes from:** the model details you need — versions, owners, lifecycle stages, performance metrics, and bias-test results — are provided in `exercises/starter/data/` (`model_details_reference.md` for the inventory, and the three `*_model_facts.md` fact sheets for the Model Cards). Work from these; do not invent values. The governance decisions (risk tier, approval status, next review date, and the analytical Model Card sections) are yours to reason through.
 
 ### Task
 
